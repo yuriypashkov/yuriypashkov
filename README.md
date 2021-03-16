@@ -8,7 +8,7 @@ My name is Yuriy Pashkov
 - 🔥 Combine is nice shit, but why i'm so dumb
 - 🐌 Sloooowly learning SwiftUI
 - ✔️ Worked with Realm and Google Firebase
-- 👹 My stupid applications in AppStore: https://apps.apple.com/il/developer/yuriy-pashkov/id1513812051
+- 👹 My stupid apps in AppStore: https://apps.apple.com/il/developer/yuriy-pashkov/id1513812051
 
 #### IRL 
 - funny guy 
