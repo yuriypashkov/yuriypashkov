@@ -14,5 +14,5 @@ My name is Yuriy Pashkov
 - funny guy 
 - musician
 - reading paper books
-- watching documentaries of world history
+- watching documentaries about world history
 - love my friends, parties and non-alco beer HELL YEAH!!1
