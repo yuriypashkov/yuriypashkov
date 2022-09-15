@@ -7,6 +7,4 @@ My name is Yuriy Pashkov
 #### IRL 
 - funny guy 
 - musician
-- reading paper books
-- watching documentaries about world history
 - love my friends, parties and non-alco beer HELL YEAH!!1
